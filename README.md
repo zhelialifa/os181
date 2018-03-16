@@ -12,3 +12,5 @@ ZCZC W02 Week02 Demo: done!
 ZCZC W03 Week03 Demo: selesai!
 
 ZCZC W04 Week04 Demo: beres!
+
+ZCZC W05 Week05 Demo: finish!
