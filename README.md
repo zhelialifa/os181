@@ -14,3 +14,5 @@ ZCZC W03 Week03 Demo: selesai!
 ZCZC W04 Week04 Demo: beres!
 
 ZCZC W05 Week05 Demo: finish!
+
+ZCZC W06 Week06 Demo: fork()
