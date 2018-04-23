@@ -17,4 +17,6 @@ ZCZC W05 Week05 Demo: finish!
 
 ZCZC W06 Week06 Demo: fork()
 
-ZCZC W06 Week07 Demo: Synchron
+ZCZC W07 Week07 Demo: Synchron
+
+ZCZC W08 Week08 Demo: CPU Scheduling
